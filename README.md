@@ -1,8 +1,10 @@
 <h1 align="center">Hi There! I'm Fernando Karl Jr. V. Rebenito</h1>
 <h2 align="center">About Me:</h2>
-<h4 align="justify">I am a Bachelor of Science in Infomation Technology student, programmer, designer, and critical thinker. I specialize in computer systems diagnostics, servicing, and web and mobile application development. </h4>
+<div align="center"><img src="https://github.com/TessT1ckles/TessT1ckles/blob/main/img/pfp.jpg" height="290"></div>
 
-<div align="center"><img src="https://github.com/TessT1ckles/TessT1ckles/blob/main/img/pfp.jpg" height="270"></div>
+- Bachelor of Science in Infomation Technology student of FEU Institute of Technology
+- Programmer, Designer, Critical Thinker
+- Specializes in computer systems diagnostics, servicing, and web and mobile application development
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tesst1ckles&label=Profile%20views&color=0e75b6&style=flat" alt="tesst1ckles" /> </p>
