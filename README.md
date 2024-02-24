@@ -1,6 +1,6 @@
 <h1 align="center">Hi There! I'm Fernando Karl Jr. V. Rebenito</h1>
 <h3 align="center">a student majoring BSITWMA</h3>
-<p align="center"><img src="https://drive.google.com/thumbnail?id=1J6GkMFpNPJCM_fRWoPy_dbAqvTDCGOik"></p>
+<p align="center"><img height="360px" width="250px" src="https://drive.google.com/thumbnail?id=1J6GkMFpNPJCM_fRWoPy_dbAqvTDCGOik"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
