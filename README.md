@@ -24,8 +24,8 @@
 
 <h2 align="center">Activity Statistics:</h2>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tesst1ckles&show_icons=true&locale=en&layout=compact" alt="tesst1ckles" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tesst1ckles&theme=dark&show_icons=true&locale=en&layout=compact" alt="tesst1ckles" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tesst1ckles&show_icons=true&locale=en" alt="tesst1ckles" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tesst1ckles&theme=dark&show_icons=true&locale=en" alt="tesst1ckles" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TessT1ckles&bg_color=dbffd1&color=4c9e52&line=659e4c&point=1b5021&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
