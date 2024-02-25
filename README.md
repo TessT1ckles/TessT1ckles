@@ -28,4 +28,4 @@
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tesst1ckles&theme=dark&show_icons=true&locale=en" alt="tesst1ckles" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TessT1ckles&bg_color=dbffd1&color=4c9e52&line=659e4c&point=1b5021&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TessT1ckles&bg_color=212121&color=5e9e4c&line=5a9e4c&point=03d100&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
