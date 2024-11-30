@@ -15,6 +15,7 @@
 <p align="center">
 <a href="https://www.credly.com/badges/590ab8a2-15e4-4cf1-8bab-90f01bada180/public_url"><img align="center" src="https://github.com/TessT1ckles/TessT1ckles/blob/main/img/it-specialist-python.png" height="100"></a>
 <a href="https://www.credly.com/badges/8ef436b9-83b4-4c86-90d8-4ca4284e2d55/public_url"><img align="center" src="https://github.com/TessT1ckles/TessT1ckles/blob/main/img/it-specialist-networking.png" height="100"></a>
+<a href="https://www.credly.com/badges/52b535b3-6965-4c4d-a84b-316b60e2a984/public_url"><img align="center" src="https://github.com/TessT1ckles/TessT1ckles/blob/main/img/it-specialist-html-and-css.png" height="100"></a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
