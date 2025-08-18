@@ -1,10 +1,10 @@
-<h1 align="center">Hi There! I'm Karl! a.k.a. TessT1ckles! :]</h1>
+<h1 align="center">Hi There! I'm Karl! a.k.a. RebsK! :]</h1>
 <h2 align="center">About Me:</h2>
 <div align="center"><img src="https://github.com/TessT1ckles/TessT1ckles/blob/main/img/pfp.jpg" height="290"></div>
 
 <br>
 
-- 🔭 Bachelor of Science in Infomation Technology student of FEU Institute of Technology
+- 🔭 Bachelor of Science in Information Technology student of FEU Institute of Technology
 - 💻 Programmer, Designer, Critical Thinker
 - 💪 Specializes in computer systems diagnostics, servicing, and web and mobile application development
 
