@@ -19,6 +19,7 @@
 <a href="https://www.credly.com/badges/72066a1c-7522-4619-ac9b-228aa0f89565/public_url"><img align="center" src="https://github.com/TessT1ckles/TessT1ckles/blob/main/img/pmi-project-management-ready (1).png" height="100"></a>
 <a href="https://www.credly.com/badges/eaef7c27-c87e-4f8e-828d-c4da840d4cb9/public_url"><img align="center" src="https://github.com/TessT1ckles/TessT1ckles/blob/main/img/it-specialist-device-configuration-and-management.png" height="100"></a>
 <a href="https://www.credly.com/badges/31c47fa1-3f2d-4d32-bb25-36db0de2f75f/public_url"><img align="center" src="https://github.com/TessT1ckles/TessT1ckles/blob/main/img/cisco-certified-support-technician-cybersecurity-cc.3.png" height="100"></a>
+  
 </p>
 
 <h3 align="center">Connect with me:</h3>
