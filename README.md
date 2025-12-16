@@ -23,9 +23,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/f_k_rebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="f_k_rebs" height="30" width="40" /></a>
 <a href="https://fb.com/fernandokarl.rebenito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fernandokarl.rebenito" height="30" width="40" /></a>
-<a href="https://instagram.com/reb_korl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reb_korl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rebs-karl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rebs-karl" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
